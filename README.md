@@ -1,16 +1,16 @@
-# Hola, soy Pedro Uriel Pérez Monzón 👋
+# Hola, soy Pedro Uriel Pérez Monzón 
 
 **Desarrollador de Software | Web Full Stack y Móvil**
 Estudiante de Ingeniería en Desarrollo y Gestión de Software en la Universidad Tecnológica del Norte de Guanajuato (UTNG).
 
-- 💻 Desarrollo aplicaciones web con **Angular** y **Node.js**, y apps móviles con **Kotlin** y **Flutter**
-- 📱 He creado apps para teléfono, **Wear OS** y **Android TV**
-- ☁️ Despliego proyectos en la nube con **Vercel**, **Netlify** y **Clever Cloud**
+- Desarrollo aplicaciones web con **Angular** y **Node.js**, y apps móviles con **Kotlin** y **Flutter**
+- He creado apps para teléfono, **Wear OS** y **Android TV**
+- Despliego proyectos en la nube con **Vercel**, **Netlify** y **Clever Cloud**
 - 📍 San Miguel de Allende, Guanajuato, México
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 **Lenguajes**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -40,7 +40,7 @@ Estudiante de Ingeniería en Desarrollo y Gestión de Software en la Universidad
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 **[ArtesaniasApp](https://github.com/MiguelAlvarezIbarra/Alfareria-Android)** — Kotlin · Android · Android TV · Wear OS
 Tienda de alfarería multiplataforma con catálogo, carrito, inventario y mapa interactivo de talleres. Desarrollé los módulos móvil y Android TV, con comunicación en tiempo real por sockets TCP.
@@ -50,6 +50,6 @@ Plataforma web de gestión de citas médicas. Desarrollé el backend y la base d
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 ✉️ pedrourielperezmonzon@gmail.com
