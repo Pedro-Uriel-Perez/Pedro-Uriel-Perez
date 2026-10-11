@@ -42,21 +42,6 @@ Estudiante de Ingeniería en Desarrollo y Gestión de Software en la Universidad
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
  
 ---
- 
-## Proyectos destacados
- 
-### [ArtesaniasApp](https://github.com/MiguelAlvarezIbarra/Alfareria-Android)
-*Kotlin · Android · Android TV · Wear OS*
- 
-Tienda de alfarería multiplataforma con catálogo, carrito, inventario y mapa interactivo de talleres. Desarrollé los módulos móvil y Android TV, con comunicación en tiempo real por sockets TCP.
- 
-### [Sistema de Citas Médicas](https://github.com/Pedro-Uriel-Perez/Citas-M-dicas)
-*Angular · Vercel · Netlify · MySQL*
- 
-Plataforma web de gestión de citas médicas. Desarrollé el backend y la base de datos, realicé el despliegue en la nube e integré las APIs de geolocalización, PayPal y Spotify.
- 
----
- 
 ## Contacto
  
 pedrourielperezmonzon@gmail.com
