@@ -6,7 +6,7 @@ Estudiante de Ingeniería en Desarrollo y Gestión de Software en la Universidad
  
 - Desarrollo aplicaciones web con **Angular** y **Node.js**, y apps móviles con **Kotlin** y **Flutter**
 - He creado apps para teléfono, **Wear OS** y **Android TV**
-- Despliego proyectos en la nube con **Vercel**, **Netlify** y **Clever Cloud**
+- He desplegado proyectos en la nube con **Vercel**, **Netlify** y **Clever Cloud**
 - San Miguel de Allende, Guanajuato, México
 ---
  
